@@ -189,8 +189,8 @@
   }
 
   .author-avatar {
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
     border-radius: 100%;
     user-select: none;
     background-color: $black;
@@ -200,6 +200,11 @@
     animation: 0.5s ease-in forwards fadein;
     opacity: 1;
   }
+    
+    .author-emoji{
+        font-size: 5em;
+        line-height: .8;
+    }
 
   .author-name {
     font-size: 1.7em;

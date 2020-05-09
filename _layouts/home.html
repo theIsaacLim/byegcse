@@ -2,8 +2,13 @@
 layout: default
 home: true
 ---
+<div class="author">
+    <h2 class="author-emoji">👋</h2>
+  <h2 class="author-name">{{ site.title }}</h2>
+  <p class="author-bio">{{ site.description }}</p>
+</div>
 
-<h4 class="posts-item-note">Recent Posts</h4>
+<h4 class="posts-item-note">All Posts</h4>
 {% for post in site.posts %}
 <article class="post-item">
   <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
