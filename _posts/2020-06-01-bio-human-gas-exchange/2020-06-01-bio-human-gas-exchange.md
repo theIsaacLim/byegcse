@@ -8,7 +8,7 @@ tags:
   - science
   - nutrition
   - human
-title: Notes on IGCSE Biology Part E: Human Nutrition
+title: Notes on IGCSE Biology Part E- Gas Exchange
 ---
 
 *2.46 describe the structure of the thorax, including the ribs, intercostal

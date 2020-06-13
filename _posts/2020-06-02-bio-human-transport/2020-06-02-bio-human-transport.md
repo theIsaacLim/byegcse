@@ -8,7 +8,7 @@ tags:
   - science
   - transport
   - human
-title: Notes on IGCSE Biology Part H: Human Transport
+title: Notes on IGCSE Biology Part H- Human Transport
 ---
 
 *2.51 understand why simple, unicellular organisms can rely on diffusion for
