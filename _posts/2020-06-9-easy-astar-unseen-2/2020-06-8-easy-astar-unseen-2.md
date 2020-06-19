@@ -71,26 +71,19 @@ Here are some key terms associated with colonialism:
 
 -   imperialism - becoming more like an emperor
 
--   colonialism - the state in which one country acquires complete political
-    control over another
+-   colonialism - the state in which one country acquires complete political control over another
 
 -   orientalism - the fetishising of Eastern ideas in European culture as exotic
 
--   metanarrative - the interpretation of smaller events as manifestations of a
-    larger, overarching narrative, ie. Manifest Destiny
+-   metanarrative - the interpretation of smaller events as manifestations of a larger, overarching narrative, ie. Manifest Destiny
 
--   Manifest Destiny - the 19th century ideology that the Americas were destined
-    to belong to
+-   Manifest Destiny - the 19th century ideology that the Americas were destined to belong to
 
--   Transatlantic Slave Trade - the transportation of slaves in Africa to the
-    Americas
+-   Transatlantic Slave Trade - the transportation of slaves in Africa to the Americas
 
--   decolonialisation - the rapid process by which over the course of a few
-    decades, the major European powers withdrew their control from their
-    previous colonies in India, southeast Asia, Africa, and the Americas
+-   decolonialisation - the rapid process by which over the course of a few decades, the major European powers withdrew their control from their previous colonies in India, southeast Asia, Africa, and the Americas
 
--   hybridity - the emergence of a culture combining aspects of two existing
-    cultures, ie. African American culture
+-   hybridity - the emergence of a culture combining aspects of two existing cultures, ie. African American culture
 
 If you want to look into this more, I'd recommend taking a look at post-colonial
 critical theory.
@@ -109,12 +102,9 @@ Common terms are:
 
 -   proletariat - the working class.
 
--   capitalism - a political and economic system where industry and trade is
-    controlled by profit
+-   capitalism - a political and economic system where industry and trade is controlled by profit
 
--   overwork - working
-
--   mental health
+-   overwork - working to the point of physical exhaustion, beyond human limits
 
 This theme is probably the most prominent in Songs. Here:
 
@@ -177,14 +167,11 @@ Common terms include:
 
 -   oppression - the unjust treatment of a group
 
--   sexism - discrimination or antagonism of people based on biological sex or
-    gender identity
+-   sexism - discrimination or antagonism of people based on biological sex or gender identity
 
--   gender essentialism - the idea that there are innate traits(essence) that
-    belong to people of a certain gender
+-   gender essentialism - the idea that there are innate traits(essence) that belong to people of a certain gender
 
--   patriarchy - a system in which men are in power. Most countries today can be
-    described as being patriarchal in nature
+-   patriarchy - a system in which men are in power. Most countries today can be described as being patriarchal in nature
 
 -   misogyny - prejudice against women. can be used interchangeably with sexism
 
@@ -192,13 +179,9 @@ Common terms include:
 
 -   ethnicity - a social group defined by a common racial or cultural identity
 
--   active/passive racism - active racism is taking part in racist actions for
-    the explicit purpose of racism. passive racism is not being passive in the
-    face of active racism, and allowing mentalities and actions to be taken to
-    oppress a racial minority
+-   active/passive racism - active racism is taking part in racist actions for the explicit purpose of racism. passive racism is not being passive in the face of active racism, and allowing mentalities and actions to be taken to oppress a racial minority
 
--   institutional racism/sexism - racism and sexism embedded in law, or
-    performed by the government or corporations as opposed to individuals
+-   institutional racism/sexism - racism and sexism embedded in law, or performed by the government or corporations as opposed to individuals
 
 Nature and It's Destruction
 ===========================
@@ -208,26 +191,19 @@ Nature and It's Destruction
 Nature is also a common theme that Cambridge tends to talk, often in reference
 to industrialisation and etc. Here are some important keyterms:
 
--   global warming - the fact that the average temperature on Earth has been
-    slowly increasing as a result of greenhouse gas emissions
+-   global warming - the fact that the average temperature on Earth has been slowly increasing as a result of greenhouse gas emissions
 
--   industrialisation - the rapid economic and technological development of a
-    country on a wide scale
+-   industrialisation - the rapid economic and technological development of a country on a wide scale
 
--   anthropogenic climate change - the fact that the climate is warming and
-    changing as a result of human actions
+-   anthropogenic climate change - the fact that the climate is warming and changing as a result of human actions
 
--   pesticide - a chemical used for destroying "harmful" organisms such as
-    weeds, bacteria or insects
+-   pesticide - a chemical used for destroying "harmful" organisms such as weeds, bacteria or insects
 
--   pollution - the introduction to harmful or poisonous substances into an
-    environment
+-   pollution - the introduction to harmful or poisonous substances into an environment
 
--   water pollution - release of harmful substances into a body of water, such
-    as a river, lake, or ocean
+-   water pollution - release of harmful substances into a body of water, such as a river, lake, or ocean
 
--   air pollution - release of harmful and generally visible gases such as
-    aerosols or carbon monoxide into the atmosphere
+-   air pollution - release of harmful and generally visible gases such as aerosols or carbon monoxide into the atmosphere
 
 -   urbanisation - the rapid development and growth of cities across the world
 
