@@ -6,7 +6,7 @@ description: >-
 tags:
   - english
   - worldlit
-title: Easy A* in Cambridge World Literature- One Easy Trick to Make or Break your IGCSE Unseen Poetry Analysis
+title: Easy A* in Cambridge IGCSE Literature 2- One Easy Trick to Make or Break your IGCSE Unseen Poetry Analysis
 ---
 
 

@@ -8,7 +8,7 @@ description: >-
 tags:
   - english
   - worldlit
-title: Easy A* in Cambridge World Literature- A Five Part Series
+title: Easy A* in Cambridge IGCSE Literature- A Five Part Series
 ---
 
 In this five part series, I'm going to show you how to ace your Cambridge IGCSE
