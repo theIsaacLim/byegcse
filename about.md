@@ -1,18 +1,46 @@
 ---
-title: Colophon
-permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+permalink: /about/
+excerpt: >-
+  Welcome to ByeGCSE! Last May, we finished our IGCSE exams. Good riddance. We
+  never liked them, they were horribly tiring, and they were terrible at testing
+  the core subject abilities they were designed to test. We had to work hard to
+  shift our understanding into the little checkboxes in the IGCSE mark scheme
+  and we want to make it easier for you lucky lot.
 comments: false
+title: Who We Are
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Welcome to ByeGCSE! Last May, we finished our IGCSE exams. Good riddance. We
+never liked them, they were horribly tiring, and they were terrible at testing
+the core subject abilities they were designed to test. We had to work hard to
+shift our understanding into the little checkboxes in the IGCSE mark scheme and
+we want to make it easier for you lucky lot.
 
-If you have a question about him or else, just send a letter to him.
+Here’s the secret- IGCSE exams don’t really test your actual knowledge or skill.
+There are these subtle little tricks that get you marks on the exam paper that
+teachers don’t tell you about because they distract from your actual learning.
+Lucky for you, we’re not teachers, and we will disclose to you all the hidden
+secrets we used to get marks in the IGCSEs.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Our team currently consists of GreenTea and Fire. Here are their bios:
 
-##### may u needs ✨
+-   Hi, I’m GreenTea. My passions largely lie in the STEM subjects - biology,
+    chemistry, physics, maths, computer science, all fascinate me. I aspire to
+    study medicine in the future! But I also really enjoy fine art, studying
+    foreign languages and geography. I hope I can aid you in your I/GCSE courses
+    :)
 
-- {{ site.author.email }}
-- github.com/{{ site.author.username }}
+    -   Pronouns: she/her
+
+    -   Languages: English, Japanese, Chinese (IGCSE 2nd lan), Spanish (IGCSE
+        Foreign)
+
+-   Hi! I'm Fire and I love great literature. Reading the great works and
+    stories that have influenced the course of history itself inspires me. I
+    also am a budding web developer, filmmaker, and autodidactic eruphile.
+
+    -   Pronouns: they/them or he/him
+
+    -   Languages: English, Chinese(working capacity), Spanish(barely),
+        Malay(also barely)
