@@ -1,6 +1,6 @@
 ---
-modified: '2020-06-09 9:47:47 +08:00'
-date: '2020-06-09 9:47:47 +08:00'
+modified: '2020-07-05 9:47:47 +08:00'
+date: '2020-07-05 9:47:47 +08:00'
 description: >- 
     In this five part series, I'm going to show you how to ace your Cambridge IGCSE World Literature Course, taking you through everything teachers don't show you. At the end of this fourth post, you'll be fully ready for IGCSE's seen paper.
 tags:
