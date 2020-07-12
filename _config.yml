@@ -13,7 +13,6 @@ author:
   bio: We're students done with our iGCSE Exams, and we wanted to put all of our notes and resources online for students like us to access.
   username: username
   email: your-email@email.com
-  avatar: /assets/img/avatar.jpg
 
 # Url settings
 url: "https://byegcse.netlify.app/"
@@ -76,3 +75,9 @@ plugins:
   - jekyll-sass-converter
   - jekyll-sitemap
   - jekyll-postfiles
+
+featured:
+    url: "https://discord.gg/trKJGwn"
+    img: assets/img/discord_thumb.jpg
+    title: "Join our Discord!"
+    description: "The ByeGCSE Discord is an amazing community where you can ask IGCSE questions and get them answered by fellow students and older mentors and teachers. Think of it as your class group chat, where you can ask questions about any IGCSE Subject, just ten times bigger. We’re one of the only by-students for-students IGCSE Revision Discords out there- so join now!"
