@@ -2,11 +2,15 @@
   url: /
   external: false
   
-- title: biology
+- title: bio
   url: /biology/
   external: false
   
-- title: english
+- title: chem
+  url: /chemistry/
+  external: false
+  
+- title: eng
   url: /english/
   external: false
   
